@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Technical Blog
 description: Minor code fixes
-baseurl: "/matjek"
+baseurl: "/"
 url: "http://gurindernarang.github.io/"
 permalink: /:year/:month/:day/:title
 repository: gurindernarang/gurindernarang.github.io
