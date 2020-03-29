@@ -16,7 +16,7 @@
 title: Technical Blog
 description: Minor code fixes
 baseurl: "/matjek"
-url: "http://gurindernarang.github.io/"
+url: "https://gurindernarang.github.io/"
 permalink: /:year/:month/:day/:title
 repository: gurindernarang/gurindernarang.github.io
 paginate: 5
