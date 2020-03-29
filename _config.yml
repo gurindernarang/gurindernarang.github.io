@@ -18,13 +18,13 @@ description: Minor code fixes
 baseurl: "/matjek"
 url: "http://gurindernarang.github.io/"
 permalink: /:year/:month/:day/:title
-repository: ShawnTeoh/matjek
+repository: gurindernarang/gurindernarang.github.io
 paginate: 5
 
 # MatJek specific configurations
 github_profile: "https://github.com/gurindernarang"
 user: "John Doe"
-user_email: "john@doe.com"
+user_email: "gurinder.narang88@gmail.com"
 contact_url: "https://goo.gl/tVljbV"
 google_tracking_id: "UA-96359860-1"
 google_site_verification: "UA-96359860-1"
