@@ -20,15 +20,13 @@ url: "http://gurindernarang.github.io/"
 permalink: /:year/:month/:day/:title
 repository: gurindernarang/gurindernarang.github.io
 paginate: 5
-
-# MatJek specific configurations
 github_profile: "https://github.com/gurindernarang"
-user: "John Doe"
+user: "Gurinderpa Singh"
 user_email: "gurinder.narang88@gmail.com"
 contact_url: "https://goo.gl/tVljbV"
-google_tracking_id: "UA-96359860-1"
-google_site_verification: "UA-96359860-1"
-disqus_shortname: "matjek"
+google_tracking_id: ""
+google_site_verification: ""
+disqus_shortname: ""
 
 # Build settings
 markdown: kramdown
