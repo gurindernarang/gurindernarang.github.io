@@ -13,20 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Technical Blog
-description: Minor code fixes
-baseurl: "/"
+title: Minor code snippets for JS and it's different frameworks
+description: 
+baseurl: ""
 url: "http://gurindernarang.github.io/"
 permalink: /:year/:month/:day/:title
 repository: gurindernarang/gurindernarang.github.io
 paginate: 5
 github_profile: "https://github.com/gurindernarang"
-user: "Gurinderpal Singh"
+user: "Gurinderpa Singh"
 user_email: "gurinder.narang88@gmail.com"
 contact_url: "https://goo.gl/tVljbV"
 google_tracking_id: ""
 google_site_verification: ""
-disqus_shortname: ""
+disqus_shortname: "matjek"
 
 # Build settings
 markdown: kramdown
